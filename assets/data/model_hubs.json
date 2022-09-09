@@ -1,0 +1,1 @@
+[{"hub": "huggingface", "ptnns": 51635}, {"hub": "torch", "ptnns": 47}, {"hub": "tensorflow", "ptnns": 1273}, {"hub": "modelhub", "ptnns": 23}, {"hub": "onnx", "ptnns": 164}, {"hub": "modelzoo", "ptnns": 1211}, {"hub": "nvidia.ngc", "ptnns": 406}]
